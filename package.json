@@ -1,0 +1,27 @@
+{
+  "name": "vue-cli-plugin-caffeine",
+  "version": "0.0.1",
+  "description": "CaffeineScript support for your @vue/cli project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad1777d/vue-cli-plugin-caffeine-todo.git"
+  },
+  "keywords": [
+    "CaffeineScript",
+    "\"vue-cli\"",
+    "\"vue\"",
+    "\"vuejs\"",
+    "caffeine",
+    "caf"
+  ],
+  "author": "naumovvladislav@mail.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlad1777d/vue-cli-plugin-caffeine-todo/issues"
+  },
+  "homepage": "https://github.com/vlad1777d/vue-cli-plugin-caffeine-todo#readme"
+}
